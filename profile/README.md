@@ -13,6 +13,7 @@ using best available open source components.
 
 ### Goals
 
+- traditional WIMP GUI
 - developer friendly
 - reasonably unix-compliant
 - lean base system
