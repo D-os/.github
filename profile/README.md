@@ -22,3 +22,7 @@ using best available open source components.
 
 - LSB compliance
 - applications distribution
+
+## 🚧
+
+![D/os WIP](D-os.png)
