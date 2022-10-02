@@ -26,3 +26,11 @@ using best available open source components.
 ## 🚧
 
 ![D/os WIP](D-os.png)
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/D-os/dos.svg)](https://starchart.cc/D-os/dos)
+
+## Logo
+
+The [logo](D-os.gif) is _Copyright 2001 Tomasz Sterna_.
