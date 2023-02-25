@@ -27,6 +27,8 @@ using best available open source components.
 
 ![D/os WIP](D-os.png)
 
+[Tabs and Sliders](https://user-images.githubusercontent.com/147687/221374446-4c676864-bb10-4c77-9327-3301a3578ce6.webm)
+
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/D-os/dos.svg)](https://starchart.cc/D-os/dos)
